@@ -1,5 +1,8 @@
 # 相关文章和讨论
 
+## 相关新闻
+- 程渊的判决书:[程渊犯颠覆国家政权罪，判处有期徒刑五年，剥夺政治权利五年](https://zhuanlan.zhihu.com/p/637452535)
+
 ## 知名人物言论
 
 - Python之父 Guido van Rossum
